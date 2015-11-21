@@ -1,6 +1,9 @@
 
 
 
+
+//command parameters: statue_seq/img0%d.bmp  588 618    0.5  11
+
 #include <afxwin.h>  // necessary for MFC to work properly
 //#include <afxpriv.h> //for W2A
 #include <locale.h>  
